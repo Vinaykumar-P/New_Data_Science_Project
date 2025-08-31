@@ -5,7 +5,11 @@ import pandas as pd
 st.write("""
          
         ## Simple Stock Price app
+<<<<<<< HEAD
         #Shown are the stocks prices2
+=======
+        #Shown are the stocks prices
+>>>>>>> af58b4d (updated for test2)
      
         """)
 
