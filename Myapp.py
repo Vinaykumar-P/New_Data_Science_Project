@@ -4,11 +4,8 @@ import pandas as pd
 
 st.write("""
          
-        ## Simple Stock Price app
-        #Shown are the stocks prices2
-=======
-        #Shown are the stocks prices
-
+        ## Simple Stock Tracking app
+        # Congratulations Vinay you did it!
      
         """)
 
