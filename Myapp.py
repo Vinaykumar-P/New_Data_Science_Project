@@ -12,6 +12,6 @@ st.write("""
 tS='HDFCBANK.NS'
 tD= yf.Ticker(tS)
 #tDF=tD.history(start='2010-5-31', end='2020-5-31')
-tDF = tD.history(start='2024-05-31', end='2025-08-29')
+tDF = tD.history(start='2020-05-31', end='2025-08-29')
 st.line_chart(tDF.Close)
 st.line_chart(tDF.Volume)
